@@ -1,4 +1,5 @@
 
+![4](https://user-images.githubusercontent.com/72355033/101498424-233fa180-397d-11eb-9465-68eb60a11928.PNG)
 
 [+] Auto Cms Detect
 
@@ -42,7 +43,6 @@
 [+] Power Zoomer
 [+] wp-file-manager NEW
 
-![4](https://user-images.githubusercontent.com/72355033/101498424-233fa180-397d-11eb-9465-68eb60a11928.PNG)
 
 [2] Joomla
 
