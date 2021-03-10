@@ -1,6 +1,8 @@
 
 ![4](https://user-images.githubusercontent.com/72355033/101498424-233fa180-397d-11eb-9465-68eb60a11928.PNG)
 
+<a href="https://www.youtube.com/channel/UCAkEEbGfdDhyBmkOwm4Lh4w"><i style="font-size: 30px; color: #fff; padding: 20px 20px;" class="fa fa-youtube"></i></a> 
+
 [+] Auto Cms Detect
 
 [1] WordPress :
